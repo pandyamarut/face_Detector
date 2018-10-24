@@ -1,7 +1,8 @@
 # face_Detector
 
 
-Created Front face Detection app using openCv library and python During a online certification course. 
+Created Front face Detection app using openCv library and python.
+OpenCv is a widely used library For image Processing and computer Vision.
 openCv ibrary Contains pre-trained classifiers for faces,eye,smile etc. which are present in opencv/data/haarcascades/ folder.
 I used a hafilearcascade xml  From an open source repository to read logics. 
 
